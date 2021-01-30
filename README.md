@@ -5,3 +5,7 @@ The goal of this rail type set is to add rail types that represent the different
 
 
 Finished initial proposal, awaiting feedback.
+
+Uses tools made by Timberwolf(https://github.com/mattkimber)
+Cargopositor: https://github.com/mattkimber/cargopositor
+GoRender: https://github.com/mattkimber/gorender
