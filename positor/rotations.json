@@ -4,29 +4,6 @@
     ],
     "operations": [
 		{
-		  "name": "_2",
-		  "type": "rotate",
-		  "angle": -90,
-		  "x_offset": 1,
-          "y_offset": 0,
-          "scale": {
-              "x": 1.0,
-              "y": 1.0
-          },
-          "bounding_volume": {
-            "min": {
-              "x": 0,
-              "y": 0,
-              "z": 0
-            },
-            "max": {
-              "x": 128,
-              "y": 128,
-              "z": 11
-            }  
-          }
-        },
-		{
 		  "name": "_3",
 		  "type": "rotate",
 		  "angle": -45,
