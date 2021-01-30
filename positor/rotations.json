@@ -1,0 +1,76 @@
+{
+    "files": [
+        "voxels/rails/rail_05xx_a_1.vox"
+    ],
+    "operations": [
+		{
+		  "name": "_2",
+		  "type": "rotate",
+		  "angle": -90,
+		  "x_offset": 1,
+          "y_offset": 0,
+          "scale": {
+              "x": 1.0,
+              "y": 1.0
+          },
+          "bounding_volume": {
+            "min": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "max": {
+              "x": 128,
+              "y": 128,
+              "z": 11
+            }  
+          }
+        },
+		{
+		  "name": "_3",
+		  "type": "rotate",
+		  "angle": -45,
+		  "x_offset": 0,
+          "y_offset": 0,
+          "scale": {
+              "x": 1.4,
+              "y": 1.4
+          },
+          "bounding_volume": {
+            "min": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "max": {
+              "x": 128,
+              "y": 128,
+              "z": 11
+            }  
+          }
+        },
+        {
+            "name": "_4",
+            "type": "rotate",
+            "angle": 45,
+            "x_offset": 0,
+            "y_offset": 0,
+            "scale": {
+                "x": 1.4,
+                "y": 1.4
+            },
+            "bounding_volume": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 128,
+                "y": 128,
+                "z": 11
+              }  
+            }
+          }
+    ]
+}  
