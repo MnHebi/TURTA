@@ -8,9 +8,10 @@
     "fade_to_black": true,
     "accuracy": 11,
     "overlap": 0,
-    "brightness": -0.05,
-    "contrast": 0.05,
+    "brightness": 0,
+    "contrast": 1.0,
 	"joggle": -0.5,
+	"falloff_adjustment": -0.1,
     "size": {
       "x": 128,
       "y": 128,
