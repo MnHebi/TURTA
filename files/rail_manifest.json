@@ -3,7 +3,7 @@
     "lighting_elevation": 65,
     "depth_influence": 0,
     "tiled_normals": true,
-    "soften_edges": 0.5,
+    "soften_edges": 1.0,
     "sampler": "disc",
     "fade_to_black": true,
     "accuracy": 11,
@@ -15,7 +15,7 @@
     "size": {
       "x": 128,
       "y": 128,
-      "z": 11
+      "z": 44
     },
     "render_elevation": 30,
 	"sprites": [
