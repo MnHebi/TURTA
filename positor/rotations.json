@@ -1,6 +1,6 @@
 {
     "files": [
-        "voxels/rails/rail_05xx_a_1.vox"
+        "voxels/rails/rail_05xx_a.vox"
     ],
     "operations": [
 		{
@@ -8,7 +8,7 @@
 		  "type": "rotate",
 		  "angle": -45,
 		  "x_offset": 0,
-          "y_offset": 0,
+          "y_offset": 5,
           "scale": {
               "x": 1.4,
               "y": 1.4
@@ -22,7 +22,7 @@
             "max": {
               "x": 128,
               "y": 128,
-              "z": 11
+              "z": 44
             }  
           }
         },
@@ -31,7 +31,7 @@
             "type": "rotate",
             "angle": 45,
             "x_offset": 0,
-            "y_offset": 0,
+            "y_offset": 5,
             "scale": {
                 "x": 1.4,
                 "y": 1.4
@@ -45,7 +45,7 @@
               "max": {
                 "x": 128,
                 "y": 128,
-                "z": 11
+                "z": 44
               }  
             }
           }

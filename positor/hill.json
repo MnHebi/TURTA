@@ -1,0 +1,13 @@
+{
+    "files": [
+        "voxels/rails/rail_05xx_a.vox"
+    ],
+    "operations": [
+		{  
+			"name": "_5",
+			"type": "stairstep",
+			"x_steps": 4,
+			"z_steps": 1
+        }
+    ]
+}  
